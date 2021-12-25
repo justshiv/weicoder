@@ -13,7 +13,7 @@
 
 	<properties>
 		<log4j-core>2.14.1</log4j-core>
-		<fastjson>1.2.76</fastjson>
+		<fastjson>1.2.78</fastjson>
 		<hibernate-core>5.4.30.Final</hibernate-core>
 		<mysql-connector-java>8.0.23</mysql-connector-java>
 		<netty-all>4.1.63.Final</netty-all>

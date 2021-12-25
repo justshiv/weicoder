@@ -25,7 +25,7 @@
 		<kafka-clients>2.7.0</kafka-clients>
 		<sofa-rpc>5.7.7</sofa-rpc>
 		<guava>30.1.1-jre</guava>
-		<elasticsearch>7.12.0</elasticsearch>
+		<elasticsearch>7.15.2</elasticsearch>
 		<poi>5.0.0</poi>
 		<tomcat-embed>9.0.45</tomcat-embed>
 		<nacos-client>2.0.0</nacos-client>

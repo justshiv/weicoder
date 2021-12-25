@@ -18,7 +18,7 @@
 		<mysql-connector-java>8.0.23</mysql-connector-java>
 		<netty-all>4.1.63.Final</netty-all>
 		<mongo-java-driver>3.12.8</mongo-java-driver>
-		<influxdb-java>2.21</influxdb-java>
+		<influxdb-java>2.22</influxdb-java>
 		<flink-java>1.12.2</flink-java>
 		<jedis>3.5.2</jedis>
 		<seata>1.4.1</seata>

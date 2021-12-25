@@ -22,7 +22,7 @@
 		<flink-java>1.12.2</flink-java>
 		<jedis>3.5.2</jedis>
 		<seata>1.4.1</seata>
-		<kafka-clients>2.7.0</kafka-clients>
+		<kafka-clients>2.8.1</kafka-clients>
 		<sofa-rpc>5.7.7</sofa-rpc>
 		<guava>30.1.1-jre</guava>
 		<elasticsearch>7.12.0</elasticsearch>

@@ -23,7 +23,7 @@
 		<jedis>3.5.2</jedis>
 		<seata>1.4.1</seata>
 		<kafka-clients>2.7.0</kafka-clients>
-		<sofa-rpc>5.7.7</sofa-rpc>
+		<sofa-rpc>5.8.0</sofa-rpc>
 		<guava>30.1.1-jre</guava>
 		<elasticsearch>7.12.0</elasticsearch>
 		<poi>5.0.0</poi>

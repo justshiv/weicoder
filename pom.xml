@@ -26,7 +26,7 @@
 		<sofa-rpc>5.7.7</sofa-rpc>
 		<guava>30.1.1-jre</guava>
 		<elasticsearch>7.12.0</elasticsearch>
-		<poi>5.0.0</poi>
+		<poi>5.1.0</poi>
 		<tomcat-embed>9.0.45</tomcat-embed>
 		<nacos-client>2.0.0</nacos-client>
 		<hadoop-client>3.3.0</hadoop-client>

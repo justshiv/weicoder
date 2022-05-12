@@ -35,7 +35,7 @@
 		<okhttp>4.9.1</okhttp>
 		<retrofit>2.9.0</retrofit>
 		<HikariCP>4.0.3</HikariCP>
-		<solr-solrj>8.8.1</solr-solrj>
+		<solr-solrj>9.0.0</solr-solrj>
 		<snakeyaml>1.28</snakeyaml>
 		<opencsv>5.4</opencsv>
 		<druid>1.2.5</druid> 
